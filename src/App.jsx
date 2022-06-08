@@ -1,12 +1,4 @@
-//v1 pulls back api film info
-//v2 card created and test text appears but only one car created
-//v3 card formats correctly for each button click
-//v4 title populating corectly one click of a button
-//v5 original title working too.
-//v6 description added.
-//v7 people added
-//v8 imgaes load on people button
-//v9 imgae load on film
+
 import { useState, useEffect } from "react";
 let i = 0;
 let ii = 0;
